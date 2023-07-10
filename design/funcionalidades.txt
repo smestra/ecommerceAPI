@@ -1,0 +1,20 @@
+1. busqueda de productos
+2. listar productos
+3. comentar
+4. contactar al vendedor
+5. contactar a servicio al cliente
+6 vista previa del producto
+7. hacer reseñas con imagenes y videos
+8. compartir listas
+9. registrar un perfil de usuario
+10. editar informacion de los perfiles de usuario
+11. cambiar divisa por defecto.
+12. seleccionar forma de pago.
+13. seleccionar metodo de envio
+14. cambiar direccion
+15. seccion de promociones relampago
+16. seccion de articulos remanufacturados
+17. gestionar notificaciones
+18. añadir productos a la lista de favoritos
+19. ver ordenes anteriores y en proceso
+20. gestionar idioma de la plataforma
